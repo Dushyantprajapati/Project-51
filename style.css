@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    color: lightsalmon;
+}
+
+h2{
+    font-size: medium;
+}
+
+
+h3{
+    font-size: 0.8cm ;
+    text-align: justify;
+    color: red;
+}
+h4{
+    border: solid;
+}
+h5{
+    color: red;
+    font-size: large;
+}
+
+.header{
+    background-color: rgb(255,255,153)
+
+}
+
+.grid{
+    background-color:  rgb(255,255,153);
+    
+}
+.item{
+    display:flex;
+    justify-content:space-evenly;
+    font-size: 0.8cm;
+}
+.projects{
+    border: 10px solid black;
+    width: 100px;
+    height: 300px;
+    padding: 50px;
+    background-image: url(bg.png);
+}
+.click{
+    text-align: end;
+}
+.image{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sty{
+    background-image: url(header.png);
+    background-size: contain;
+}
